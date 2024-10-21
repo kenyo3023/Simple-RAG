@@ -1,2 +1,11 @@
 openai
 python-dotenv
+
+# vector database
+meilisearch
+
+# langchain
+langchain
+langchain-community
+
+tiktoken
